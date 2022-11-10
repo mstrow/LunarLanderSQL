@@ -1,2 +1,3 @@
 # LunarLanderDAT602
-gameplay.mp4
+
+https://raw.githubusercontent.com/mstrow/LunarLanderSQL/main/gameplay.mp4
