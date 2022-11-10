@@ -1,4 +1,7 @@
-# LunarLanderDAT602
+# LunarLanderSQL
+
+Lunar lander game running on SQL server using stored procedures with C# frontend.
+No this isn't practical at all.
 
 
 
